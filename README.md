@@ -54,8 +54,8 @@ Webcam frame ──► SCRFD face detector (InsightFace) ──► face crop
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/emotion-vision.git
-cd emotion-vision
+git clone https://github.com/muneerahmedkhokhar53-wq/Vision-Real-Time-Face-Emotion-Detection-with-a-Sci-Fi-HUD.git
+cd Vision-Real-Time-Face-Emotion-Detection-with-a-Sci-Fi-HUD
 
 python -m venv .venv
 # Windows:  .venv\Scripts\activate
